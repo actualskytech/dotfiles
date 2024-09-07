@@ -44,6 +44,7 @@
 
 
 ![image](https://github.com/actualskytech/dotfiles/blob/main/swappy-20240907_114114.png)
+![image](https://github.com/actualskytech/dotfiles/blob/main/swappy-20240907_134837.png)
 
 
 
