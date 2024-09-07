@@ -33,8 +33,8 @@
   | Software | Purpose |
   | ------------- | ------------- |
   | [Hyprland](https://github.com/hyprwm/hyprland) | The compositor (for noobs, you can just call it a window manager) |
-  | [AGS](https://github.com/Aylur/ags) | A GTK widget system, responsible for the status bar, sidebars, etc. |
-  | [Fuzzel](https://mark.stosberg.com/fuzzel-a-great-dmenu-and-rofi-altenrative-for-wayland/) | For clipboard and emoji picker |
+  | [Waybar](https://github.com/Alexays/Waybar) | The bar
+  | [Rofi](https://github.com/davatorium/rofi) | For app opening,sometimes i use fuzzel as a fallback to open certain apps however |
 
 
   - For a more comprehensive list of dependencies, see [scriptdata/dependencies.conf](https://github.com/end-4/dots-hyprland/blob/main/scriptdata/dependencies.conf)
