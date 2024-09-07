@@ -1,6 +1,6 @@
 <div align="center">
     <h1>【 Sky's Hyprland dotfiles 】</h1>
-    <h1>[ THESE ARE NOT FINISHED!!! DO NOT USE THESE RN!!!]</h1>
+    <h1>[ The postinstall is not finshed!! dont use it rn!!!]</h1>
     <h3></h3>
 </div>
 
