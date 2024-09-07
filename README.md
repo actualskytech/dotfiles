@@ -23,7 +23,7 @@
     
    - **Automatic** post install script,these are designed to be used AFTER a fresh install.
    ```bash
-   bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
+   bash <(curl -s "[https://github.com/actualskytech/dotfiles/blob/main/postinstall.sh")
    ```
 </details>
 
