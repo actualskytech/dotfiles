@@ -18,6 +18,9 @@ echo "Yay has been installed! To learn how to use yay, run yay -h in your termin
 echo "Copying config files..."
 mkdir -p ~/.config
 cp -r dotfiles/.config/* ~/.config/
+mkdir -p ~/.poshthemes
+cp -r dotfiles/.poshthmes/* ~/.poshthemes/
+
 
 echo "Installing packages..."
 sudo pacman -S --noconfirm hyprland rofi thunar alacritty grim slurp waybar ly bluez bluez-utils blueman swappy fish 
