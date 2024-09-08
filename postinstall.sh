@@ -21,7 +21,7 @@ cp -r dotfiles/.config/* ~/.config/
 
 echo "Installing packages..."
 sudo pacman -S --noconfirm hyprland rofi thunar alacritty grim slurp waybar ly bluez bluez-utils blueman swappy fish 
-yay -S --noconfirm waypaper swaybg
+yay -S --noconfirm waypaper swaybg otf-font-awesome
 
 echo "Enabling services..."
 sudo systemctl enable ly.service
