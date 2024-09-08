@@ -24,7 +24,7 @@ cp -r dotfiles/.poshthmes/* ~/.poshthemes/
 
 echo "Installing packages..."
 sudo pacman -S --noconfirm hyprland rofi thunar alacritty grim slurp waybar ly bluez bluez-utils blueman swappy fish 
-yay -S --noconfirm waypaper swaybg otf-font-awesome
+yay -S --noconfirm waypaper swaybg otf-font-awesome oh-my-posh
 
 echo "Enabling services..."
 sudo systemctl enable ly.service
